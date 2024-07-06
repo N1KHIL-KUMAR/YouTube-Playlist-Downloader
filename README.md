@@ -2,7 +2,7 @@
 YouTube Playlist Downloader And Choice Your Resolution
 
 # Installation
-Instructions on how to install *KeyDetective*
+Instructions on how to install *YouTube-Playlist-Downloader*
 ```bash
 git clone https://github.com/N1KHIL-KUMAR/YouTube-Playlist-Downloader.git
 cd YouTube-Playlist-Downloader
